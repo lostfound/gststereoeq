@@ -1,0 +1,4 @@
+gststereoeq
+===========
+
+stereo equolizer
